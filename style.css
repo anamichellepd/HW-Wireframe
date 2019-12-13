@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial','Helvetica Neue', HElvetica, sans-serif;
+    color: #777;
+    background-color: #777;
+    width: '960px';
+    font-size: '18 px';
+}
+header, nav, section, aside, footer {
+    background: #ebebeb;
+    margin: 10 px;
+}
+article{
+    color: #ebebeb;
+    background: #777;
+}
+h1, p {
+    color: #777;
+    background: #ebebeb;
+}
+section{
+    width: 495px;
+}
